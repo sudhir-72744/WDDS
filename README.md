@@ -1,4 +1,4 @@
-#WDDS
+# WDDS
 # Wheat Leaf Disease Detection & ROI Detection 🌾
 
 Wheat Leaf Disease Detection & ROI Detection is an advanced machine learning project that combines the power of multiple deep learning models for two critical tasks: detecting diseases in wheat leaves and identifying regions of interest (ROIs) within those leaves. This project is a holistic solution for precision agriculture.
