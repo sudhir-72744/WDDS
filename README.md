@@ -70,10 +70,5 @@ This project achieves impressive accuracy in classifying wheat leaves into disea
 
 ## 🙌 Contributing
 
-Contributions to this project are encouraged and appreciated! Whether you're a machine learning enthusiast, domain expert, or developer, your contributions can help enhance the precision and scope of wheat leaf disease detection and ROI identification. Please review our [Contribution Guidelines](CONTRIBUTING.md) for more information on how to get involved.
+Contributions to this project are encouraged and appreciated! Whether you're a machine learning enthusiast, domain expert, or developer, your contributions can help enhance the precision and scope of wheat leaf disease detection and ROI identification. 
 
-## 🔒 License
-
-[Specify the license you choose for your project, e.g., MIT License, Apache License 2.0, etc.]
-
-Feel free to further customize this README with additional details about your project's features, datasets, and any specific instructions for running the code. Happy farming and coding! 🌾🤖
